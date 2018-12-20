@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">WARDEN</string>
+
+    <!--Main Screen-->
+    <string name="text_send_money">Send money</string>
+    <string name="text_receive_money">Receive money</string>
+    <string name="text_check_management">Check management</string>
+    <string name="text_exchange">Exchange</string>
+    <string name="text_remains_history">Remains &amp; History</string>
+
+    <!--Send money-->
+    <string name="text_web_wallet">Web wallet</string>
+    <string name="text_card_wallet">Card wallet</string>
+    <string name="text_bluetooth">Bluetooth</string>
+    <string name="text_internet">Internet</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_ok">O.K.</string>
+    <string name="text_money_requests">Money requests:</string>
+    <string name="text_money_requests1">stupid green whale</string>
+    <string name="text_money_requests2">little blue bird</string>
+    <string name="text_money_requests3">strange lilac rabbit</string>
+    <string name="text_money_requests4">lame blue lizard</string>
+    <string name="text_money_requests5">jubilant red lynx</string>
+    <string name="text_do_you_want_send">Do you want to send:</string>
+    <string name="enter_amount">Enter amount:</string>
+    <string name="text_current_balance">Current balance:</string>
+    <string name="text_enter_passphrase">Enter a passphrase</string>
+
+    <!--Check management-->
+    <string name="text_create_check">Create a check</string>
+    <string name="text_redeem_check">Redeem a check</string>
+    <string name="text_check_written">Check written</string>
+    <string name="text_check_number">Check number:</string>
+    <string name="text_check_sample">LA-30-DR-99-PT</string>
+    <string name="text_check_activation_code">Check activation code:</string>
+    <string name="text_code_sample">59-85-24</string>
+
+    <string name="text_enter_check_number">Enter check number</string>
+    <string name="text_enter_activation_code">Enter activation code</string>
+    <string name="text_check_amount">Check amount:</string>
+    <string name="text_redeem_the_check">Redeem the check</string>
+    <string name="text_check_redeemed">Check redeemed</string>
+
+    <string name="text_you_want_rec">You want to receive:</string>
+    <string name="text_your_phrase">Your phrase:</string>
+    <string name="text_phrase_sample">little blue bird</string>
+    <string name="text_waiting">Waiting for transfer</string>
+
+    <string name="text_offer">Offer an exchange</string>
+    <string name="text_accept_exchange">Accept exchange offer</string>
+    <string name="text_you_want_give">You want to give:</string>
+    <string name="text_create_stock">Create a stock quote</string>
+    <string name="text_exchange_in_progress">Exchange in process</string>
+    <string name="text_exchange_sample">big yellow jellyfish</string>
+
+    <string name="text_exchange_complete">Exchange completed</string>
+
+    <string name="text_search">Search for offers</string>
+    <string name="text_found_offer">Found offers:</string>
+    <string name="text_offer_sample">stupid green whale</string>
+    <string name="text_offer_sample1">big yellow jellyfish</string>
+    <string name="text_offer_sample2">strange lilac rabbit</string>
+    <string name="text_offer_sample3">lame blue lizard</string>
+    <string name="text_offer_sample4">jubilant red lynx</string>
+
+
+
+    <string name="text_you_give">You will give:</string>
+    <string name="text_you_receive">You will receive:</string>
+
+    <string name="text_current_balance_of_exchange">Current balance of the exchanged currencies:</string>
+
+
+    <string name="text_history">Balance &amp; History</string>
+    <string name="text_web">Balance on web</string>
+    <string name="text_card">Balance on card</string>
+
+
+    <string name="text_eur_history">EUR History</string>
+    <string name="text_eur_history1">-12.10 (09/24/2018)</string>
+    <string name="text_eur_history2">-8,65 (09/23/2018)</string>
+    <string name="text_eur_history3">-19.13 (09/22/2018)</string>
+    <string name="text_eur_history4">+150.00 (09/21/2018)</string>
+    <string name="text_erase">Erase all history</string>
+
+
+    <string name="text_details">Record details</string>
+    <string name="text_commentary">Commentary:</string>
+    <string name="text_commentary1">I return the debt. I`m sorry that I made you wait so long. Sean</string>
+    <string name="text_record_delete">Delete record</string>
+
+
+    <string name="text_deleting">Deleting the record</string>
+    <string name="text_delete_success">Record deleted</string>
+
+    <string name="text_details1">+150.00</string>
+    <string name="text_details2">09/17/2018</string>
+    <string name="text_details3">09:04 A.M.</string>
+
+
+    <string name="text_erasing">Erasing all history</string>
+    <string name="text_erasing_success">All history erased</string>
+    <string name="text_erasing_success2">Web history erased</string>
+
+
+    <string name="text_not_installed">Card not installed</string>
+    <string name="text_not_installed1">Your phone does not have a special card. Go to the web page with additional information?</string>
+    <string name="text_yes">YES</string>
+    <string name="text_no">NO</string>
+
+
+    <string name="text_usd_gistory">USD History</string>
+
+    <string name="text_usd_history">EUR History</string>
+    <string name="text_usd_history1">+14.98 (10/14/2018)</string>
+    <string name="text_usd_history2">-12.99 (10/14/2018)</string>
+    <string name="text_usd_history3">+150.00 (10/13/2018)</string>
+    <string name="text_usd_history4">+129.00 (09/26/2018)</string>
+    <string name="text_usd_history5">+50.00 (09/25/2018)</string>
+    <string name="text_erase_web">Erase web history</string>
+
+    <string name="text_settings">Settings</string>
+    <string name="text_withdraw">Withdraw</string>
+    <string name="text_i2p">I2P</string>
+    <string name="text_colopr">Colors</string>
+    <string name="text_date">Date/time format</string>
+    <string name="text_language">Language</string>
+    <string name="text_history_settings">History (texts of journal, save history or not)</string>
+    <string name="text_nick">Nickname management</string>
+
+</resources>
